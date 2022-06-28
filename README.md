@@ -1,2 +1,2 @@
 # Keyboard-hotkeys
-Printable cheatsheet for keyboard hotkeys
+Printable keymap cheatsheet for keyboard hotkeys
